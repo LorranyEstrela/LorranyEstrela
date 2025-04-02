@@ -8,5 +8,3 @@ Sou uma programadora full stack em constante aprendizado e apaixonada pelo mundo
 - JavaScript
 - MySql
 - Bootstrap
-  
-  
